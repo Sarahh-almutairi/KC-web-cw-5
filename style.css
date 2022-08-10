@@ -12,7 +12,7 @@ flex-wrap: wrap;
     height: 150px;
  background-color: teal;
 margin: 1px;
-
+box-shadow: rgba(0, 0, 0,0.35) 0px 5px 15px ;
 }
 
 .body{
